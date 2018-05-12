@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '2659'
     url: http://www.gutenberg.org/2009/agents/2659
 description: Telling of water sports and fun galore, and of fine times in camp.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30840#The-Girls-of-Central-High-on-Lake-Luna--Or-The-Crew-That-Won
 gutenberg_issued: '2010-01-04'
 gutenberg_type: Text
 identifiers:
