@@ -1,0 +1,28 @@
+_repo: The-Girls-of-Central-High-on-Lake-Luna--Or-The-Crew-That-Won_30840
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30840-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Morrison, Gertrude W.
+    gutenberg_agent_id: '2659'
+    url: http://www.gutenberg.org/2009/agents/2659
+description: Telling of water sports and fun galore, and of fine times in camp.
+gutenberg_issued: '2010-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Canoes and canoeing -- Juvenile fiction'
+- !lcsh 'Rowing -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+title: The Girls of Central High on Lake Luna; Or, The Crew That Won
+url: http://www.gutenberg.org/ebooks/30840
